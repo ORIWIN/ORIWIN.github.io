@@ -10,7 +10,7 @@ Praktické návody krok za krokom pre rôzne SAP technológie [developers.sap.co
 # YouTube kanály a tutoriály:
 #### 1.	SAP Tech Bytes <br>
 Oficiálny YouTube kanál SAP s technickými tutoriálmi <br>
-https://www.youtube.com/@SAPTechBytes <br>
+[Youtube @SAPTechBytes](https://www.youtube.com/@SAPTechBytes) <br>
 
 #### 2.	OpenSAP
 [https://open.sap.com/](https://open.sap.com/) <br>
