@@ -6,25 +6,24 @@
 Praktické návody krok za krokom pre rôzne SAP technológie [developers.sap.com](https://developers.sap.com/tutorial-navigator.html?tag=tutorial%3Aexperience%2Fbeginner)
 **Topic**: HTML5, Java, Javascript, Node.js, OData, SAPUI5 <br>
 
-
 # YouTube kanály a tutoriály:
 #### 1.	SAP Tech Bytes <br>
 Oficiálny YouTube kanál SAP s technickými tutoriálmi <br>
-https://www.youtube.com/@SAPTechBytes <br>
+[Youtube @@sapdevs](https://www.youtube.com/@sapdevs/courses) <br>
 
 #### 2.	OpenSAP
-https://open.sap.com/ <br>
+[https://open.sap.com/](https://open.sap.com/) <br>
 Bezplatné online kurzy priamo od SAP <br>
 
 # Komunity a ďalšie zdroje:
 #### 1.	SAP Community <br>
-https://community.sap.com/ <br>
+[https://community.sap.com/](https://community.sap.com/) <br>
 Fórum pre vývojárov, diskusie, blog príspevky <br>
 
 #### 2.	GitHub SAP Repositories
-https://github.com/SAP <br>
+[https://github.com/SAP](https://github.com/SAP) <br>
 Otvorené projekty a ukážkový kód <br>
 
 # Špecializované weby pre SAP BTP:
 #### 1.	SAP BTP Dokumentácia <br>
-https://help.sap.com/docs/BTP/ <br>
+[https://help.sap.com/docs/BTP/](https://help.sap.com/docs/BTP/) <br>
