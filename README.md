@@ -1,13 +1,11 @@
 # Oficiálna dokumentácia a vzdelávacie zdroje:
 #### 1.	SAP Learning Portal – rola Developer, level Beginner <br>
-
-[learning.sap.com] (https://learning.sap.com/browse/roles/developer?page=1&access=free&get-started=true&experienceLevel=BEGINNER) <br>
-Ponúka rad bezplatných kurzov a certifikácií pre SAP BTP <br>
+[learning.sap.com](https://learning.sap.com/browse/roles/developer?page=1&access=free&get-started=true&experienceLevel=BEGINNER) ponúka rad bezplatných kurzov a certifikácií pre SAP BTP <br>
 
 #### 2.	SAP Developer Tutorials -  level Beginner
-https://developers.sap.com/tutorial-navigator.html?tag=tutorial%3Aexperience%2Fbeginner  <br>
-Topic: HTML5, Java, Javascript, Node.js, OData, SAPUI5 <br>
-Praktické návody krok za krokom pre rôzne SAP technológie <br>
+Praktické návody krok za krokom pre rôzne SAP technológie [developers.sap.com](https://developers.sap.com/tutorial-navigator.html?tag=tutorial%3Aexperience%2Fbeginner)
+**Topic**: HTML5, Java, Javascript, Node.js, OData, SAPUI5 <br>
+
 
 # YouTube kanály a tutoriály:
 #### 1.	SAP Tech Bytes <br>
