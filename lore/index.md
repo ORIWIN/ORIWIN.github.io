@@ -6,6 +6,7 @@
 Praktické návody krok za krokom pre rôzne SAP technológie [developers.sap.com](https://developers.sap.com/tutorial-navigator.html?tag=tutorial%3Aexperience%2Fbeginner) <br>
 **Topic**: HTML5, Java, Javascript, Node.js, OData, SAPUI5 <br>
 
+
 # YouTube kanály a tutoriály:
 #### 1.	SAP Tech Bytes <br>
 Oficiálny YouTube kanál SAP s technickými tutoriálmi <br>
