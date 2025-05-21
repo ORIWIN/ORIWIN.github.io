@@ -35,5 +35,3 @@ Premyslieť či je možné zrealizovať krátky Hackathon, súťaž na prezent
 Nejaký druh odmeny pre zvýšenie atraktivity
  
 Nahrávať stretnutie a pripadne mať k téme ucelený zdroj informácií na rovnakom a rýchlo nájditeľnom mieste, zdrojaký, skripty, príklady, postupy, odkazy - konkrétne teamsy, alebo github a markdownový popis, ....
-
-
